@@ -1,0 +1,26 @@
+﻿body {
+
+    font-family:Arial;    
+    background:black;
+    font-size:13px;
+    line-height:18px;
+}
+
+
+canvas
+{
+    border:5px solid black;
+    background:white;
+    border-radius:10px;
+}
+
+.clickable
+{
+    cursor:pointer;
+}
+
+#container
+{
+    width:900px;
+    margin:0 auto;
+}
